@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hooks-components-basics-lab/static/css/main.f83c5865.css",
+    "main.js": "/react-hooks-components-basics-lab/static/js/main.67957203.js",
+    "index.html": "/react-hooks-components-basics-lab/index.html",
+    "main.f83c5865.css.map": "/react-hooks-components-basics-lab/static/css/main.f83c5865.css.map",
+    "main.67957203.js.map": "/react-hooks-components-basics-lab/static/js/main.67957203.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f83c5865.css",
+    "static/js/main.67957203.js"
+  ]
+}
